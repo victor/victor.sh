@@ -1,0 +1,10 @@
+---
+layout: post
+title: Tech-Ed 2002
+---
+
+The boss tells us we'll be attending the European Tech-Ed 2002, which, like past year's, will be held at the Montjuïch 2 Convention Center, in Barcelona.
+
+That means I have until July to get a wireless <acronym title="Network Interface Card">NIC</acronym>, to be able to roam the center and blog the experience without having to use the shared terminals which happen to sit away from where the action is (that, and the fact that I don't like having an stranger read over my shoulder while I access email or surf the web).
+
+Any recomendations? I have a Dell Inspiron 8100, and the card should be able to work both on <acronym title="Windows 2000">W2K</acronym> and Debian. I also would like to know about some way to avoid someone sniffing my packets in mid-air. I have read <acronym title="Wired Equivalent Privacy">WEP</acronym> is not secure...

@@ -1,0 +1,9 @@
+---
+layout: post
+title: OpenAP
+---
+
+I picked up last week a US Robotics Wireless Acces Point that I ordered early this year. The unit has been flashed with the <a title="OpenAP - Getting Started" href="http://opensource.instant802.com/getting_started.php">OpenAP</a> linux distribution, which converts it into a customizable wireless Acces Point. With only 1 MB of Flash storage and 4 MB of RAM, you can't do wonders with it, but I expect at least to be able to put <a href="http://nocat.net/">NoCat</a> in it, and harden it a little more than what my current Xircom AP is.
+
+I'll be posting progress here.
+

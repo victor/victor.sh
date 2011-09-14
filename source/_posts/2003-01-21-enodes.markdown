@@ -1,0 +1,7 @@
+---
+layout: post
+title: Enodes
+---
+
+I just discovered (thanks to <a href="http://www.freshmeat.net/">freshmeat</a>) <a href="http://www.enodes.org/">ENodes - Web development and publishing framework</a>. It seems interesting (at least to me) that it is able to use Apache::Gallery as a plugin. Gotta look into it... it could prove useful to manage a multi-domain dedicated server ;)
+

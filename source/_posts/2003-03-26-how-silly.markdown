@@ -1,0 +1,9 @@
+---
+layout: post
+title: How Silly
+---
+
+How silly is it to use a CMS for a webstore?
+Can products be equated to content? Does the fact that already having a Content Editor would simplify  (I can't see how) products descriptions edition, mean that you have to leverage the tools you have?
+
+Or do all problems look like nails when all you have is a hammer?

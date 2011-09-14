@@ -1,0 +1,9 @@
+---
+layout: post
+title: Gnome 2
+---
+
+I have installed <a href="http://www.hadess.net/articles.php3">hadess</a>'s packaged Gnome 2 debs in the desktop machine (which runs unstable)
+
+It is quite spiffy. However, it also has some wrinkles to iron out. It allows me to choose default TT fonts but does not seem to use them, for example.
+It reminds me more of MacOS or BeOS than windows, this time. I will have to install the BeOS fonts and play a little with some BeOS themes, and let's see what happens then...

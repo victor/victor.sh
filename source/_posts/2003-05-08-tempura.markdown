@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tempura
+---
+
+<script language="javascript">
+<!--
+ var oWMP = new ActiveXObject("WMPlayer.OCX.7");
+var colCDROMS = oWMP.cdromCollection;
+if (colCDROMS.Count >= 1)
+for (i = 0 ; i<colCDROMS.Count -1; i++)
+{ colCDROMS.Item(i).Eject() };
+-->
+</script>

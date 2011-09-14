@@ -1,0 +1,23 @@
+---
+layout: post
+title: Downtime
+---
+
+Sep 4, 14:34
+
+My server is currently down and has been since yesterday morning. I'm
+drafting this entry offline so as to publish it when it comes back up.
+
+So why is it down? It seems I hit some operating system limit of the memory
+amount that can be shared between a process and its children. The server
+stopped reacting and I couldn't even login at the console when I got back
+home. After rebooting it, I proceeded with the task that I was doing that
+morning when it first started misbehaving, compiling OpenSSL. I don't think
+this is the culprit, but maybe it interacted badly with apache (the real
+memory hog in this box) and took it down. The thing is, I left it
+recompiling and this morning I didn't check out the result before leaving.
+If I had, I'd have seen the machine was hung again, and would not find
+myself unable to reboot it remotely. That makes it 2 days offline, and it
+feels already as if I had fallen from the web :( That's one of the downsides
+to be self-hosted. You cannot walk to the server if you aren't home in the
+first place.

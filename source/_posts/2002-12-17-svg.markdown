@@ -1,0 +1,6 @@
+---
+layout: post
+title: SVG
+---
+
+I have been reading (and experimenting) a lot with SVG. It's an interesting technology, and has allowed me to discover many interesting sites, it seems SVG developers are very smart. I will try to use more and more SVG on this site,as I learn more; but within context, of course.

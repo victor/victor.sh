@@ -1,0 +1,8 @@
+---
+layout: post
+title: Tech-Ed 2003
+---
+
+Tech-Ed Barcelona 2003 has just been announced (or at least, we just received the brochure ;)
+
+Any .NET bloggers interested in having a beer and knowing Barcelona, are welcomed to contact me.

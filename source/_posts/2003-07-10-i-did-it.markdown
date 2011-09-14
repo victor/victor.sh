@@ -1,0 +1,10 @@
+---
+layout: post
+title: I did it
+---
+
+If you can see this entry, it means that you can reach the new site. I dumped my provider and went solo, off my ADSL line. I now control all aspects of my site (save connectivity beyond the router, of course).
+
+Bit by bit I've been adding features to the site (since I can install all the libraries I need). Expect more coming soon.
+
+A salvo of test posts follows.

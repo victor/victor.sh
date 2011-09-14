@@ -1,0 +1,6 @@
+---
+layout: post
+title: CSS woes
+---
+
+In order to enhance the look of this site on IE, I tried to use the scrollbar color properties for the body element, to have colored scroolbars. However, even doing it as per the specs and like many sites do, I can't get to display the scrollbars in other color than the default. Is there a less known bug which is playing on me?

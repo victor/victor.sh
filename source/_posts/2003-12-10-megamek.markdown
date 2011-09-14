@@ -1,0 +1,12 @@
+---
+layout: post
+title: MegaMek
+---
+
+Now that I'm helping a friend develop a web-based wargame (or, rather, turn-based game) I find interesting this
+<a title="MegaMek - An unofficial, online version of the Classic BattleTech board game" href="http://megamek.sourceforge.net/">unofficial, online version of the Classic BattleTech board game</a>
+
+I shall convince a few friends to test-drive it ;)
+
+Kurita House, 'ere we go!
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title: Switched
+---
+
+This past weekend I installed an antivirus on the desktop PC in my home office. I don't normally use them in my own computers, since I tend to adhere to safe practices and usually I don't do anything risky. However, I felt that since I already had a paid subscription, I might as well use it.
+
+Immediately, the machine turned sluggish. It's only a P-III, but the effort was noticeable. What is worse, the second time I restarted the machine, it'd not come back: a green screen of death appeared just after the Windows banner (Linux boots fine, mind you)
+
+I cannot cope with this anymore.
+
+It's well past time that I stop fiddling with computers and do anything useful with them instead. I no longer have so much free time to spend on hacking and tuning, I need a working system that I can rely on. And so does me wife.
+
+There's a shiny iMac G5 on its way home now. Mighty mouse included.
+
+
+Next step: get hold of [TextMate](http://macromates.com/), [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle/), [NetNewsWire](http://ranchero.com/netnewswire/), [ComicLife](http://plasq.com/comiclife/) and the other nifty Mac software I've wanted to use for a while now.

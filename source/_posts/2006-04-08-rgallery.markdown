@@ -1,0 +1,12 @@
+---
+layout: post
+title: RGallery
+---
+
+Someone implemented indeed something that I've been talking on and off for quite some time now:
+
+Ever since I moved to Textdrive and left my ADSL based self-hosted server, I've been missing the possibility of running [Apache Gallery](http://apachegallery.dk/). I've wanted to make for a long time a ruby-based (or rather, rails-based) version of it for a long time, but never had the opportunity of setting some time aside to that task. Mostly because it involved compiling the imlib2 ruby support and things like that.
+
+This port of Apache Gallery to rails, [RGallery](http://trac.rgallery.dk/), looks not exactly how I envisioned it: I intended to use imlib2 (it appears to me more lightweight than the whole RMagick) and looks like it is database backed, while the original was simply filesystem based (arguably, this could have been the reason of its increased resource usage). However, it was dead simple to put a gallery online. Just upload a folder with pics, add a couple of text files for metadata, and voilÃƒÆ’Ã‚Â ! No reindexing, no nothing.
+
+I will try it soon and perhaps I implement it here, or perhaps not. I shall see... Of course, I am a bit constrained of space at TXD at the moment to store my whole full-res photo-library, but at least some pics... I hope to reduce anyway my resource usage once Typo becomes multiblog capable.

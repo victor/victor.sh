@@ -1,0 +1,14 @@
+---
+layout: post
+title: X-Faces
+---
+
+Ever since I started using Linux, I became intrigued by some screenshots I saw (often from users of Arcane Software such as Emacs or NeXTMail) of mail clients that showed the face -or an icon that passed as their face- of the senders. I learned that these icons where at first encoded within the headers of the mail messages, under the `X-Face` header to be specific.
+
+At that time, in my younger years, and coming from a environment in which the internet was not even black & white (but phosphor green or ambar, and of course text-only) I preferred a mail client such as mutt, which allowed me to use features no other mail client could do at the time (v.g., to bounce a message to another email address without altering its content). Nonetheless, I became interested in the X-Faces, and longed for a graphical mail client that had that feature. Since I wouldn't call GNUMail particularly usable, and since there was no support for it in Netscape Communicator, which was my client of preference under Windows'95, and perhaps more importantly, since no one I know used X-Faces (or email for that matter) I had to forget about it.
+
+Fast-forward to the present. Looking for other things, I came upon an extension for Thunderbird, [MessageFaces](http://tecwizards.de/mozilla/messagefaces/) that enabled such feature from  epochs long gone by in a modern MUA. Not only that, but it also has support for modern image formats (formerly, only bitmaps would be allowed) and protocols (if one can name them so) such as PNG and the Gravatar service, so that even if your correspondents don't know about X-Faces, there is still the possibility that you may see an icon appearing on their messages.
+
+So, run, don't walk, to install this nifty extension, specially if you exchange mails with me :) You need to use Thunderbird, of course! Theoretically, Apple Mail also supports X-Faces, but I have been unable to find out how and, besides, Thunderbird has a greater user base.
+
+I have found this extension to be specially useful when you are subscribed to mailing lists and receive messages of people you don't personally know. It helps put faces to names ;)

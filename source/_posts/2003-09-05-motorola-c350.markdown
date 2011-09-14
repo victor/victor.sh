@@ -1,0 +1,10 @@
+---
+layout: post
+title: Motorola C350
+---
+
+I recently upgraded my aging Nokia 5110 for a Motorola C350. It's a nifty phone for its price, and although it doesn't sport Java support, I find it quite nice. It has WAP support through either GSM or GPRS, polyphonic tunes and a color display capable of the astonishing resolution of 96x65 pixels with 12bit color (4096 different colors). It's so nice that Mireia has got another one for herself to replace her Trium, and maybe David gots yet another.
+
+I have been able to download self-made wallpapers and screensavers to it, it's funky to have my own face (as seen on the upper-left corner of this page) on my mobile phone.
+
+I think I'll modify the <a href="/gallery/">Gallery</a>'s thumbnails to display in 96x65 so as to make it easier to have different wallpapers. This, or either open a new section with the pictures optimally cut and resized (since often, one might like to focus in a specific detail of a picture) and with new designs, too.

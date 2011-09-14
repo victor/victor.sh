@@ -1,0 +1,10 @@
+---
+layout: post
+title: 43Folders
+---
+
+I discovered <a href="http://merlin.blogs.com/43folders/">43Folders</a> just last week, following (I think) a link on <a href="http://www.benhammersley.com/weblog/index.html">Ben</a>'s site.
+
+Although I'm no big fan of self-improvement books, I've found that the advocacy Merlin makes of <acronym title="Getting things done">GTD</acronym> has mesmerized me. The hard logic and the simple examples have provoked me thought and I have been so intrigued that I've already ordered the book (the referral for you, Merlin ;). I've already begun to decompose my projects into <code>@nextactions</code> (albeit still on my mental RAM, I don't want to go too fast yet)
+
+As if that was not enough, the many bits of OS X software reviewed by Merlin increase my desire for owning a Mac. I had already promised myself that the next computer I'd own would be a Mac, even if it has to be a Classic or a Performa. 43Folders is, definitely, food for thought.

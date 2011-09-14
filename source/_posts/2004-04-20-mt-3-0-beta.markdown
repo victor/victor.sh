@@ -1,0 +1,7 @@
+---
+layout: post
+title: "MT 3.0 β"
+---
+
+This would have slipped out of my sight. Fortunately I had added <a href="http://ordinary-life.net">Ordinary Life</a> to my <a href="http://kinja.com/user/victor">Kinja Digest</a> and now I'm signed up for the <a title="movabletype.org" href="http://www.movabletype.org/news/2004_04.shtml#000944">Movable Type 3.0 beta test</a>. I'm curious with respect to the plugin API. Will it be easy to port my plugins?
+

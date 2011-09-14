@@ -1,0 +1,13 @@
+---
+layout: post
+title: New theme
+---
+
+Ok, it is not ready for prime time, but I couldn't wait any longer to get rid of that monstrosity.
+Behold, the Principia Programmatica theme!
+
+**Update:** In my defense, it looked better on the Mac. Also, I've just enabled the sidebar thingies and notice a lot of tags that don't make much sense. Looking at the entries looks like they were deducted somehow while migrating the database (which was not an easy feat by the way). I think I will have to go over all of them to fix the tagging.
+
+And, in any case, it isn't finished. Since I'm after an information-dense layout, I will make the main text wider and the side column go elsewhere. You can't show nice code listings in such a narrow column, can you?
+
+**Reupdate:** Oh! I need to remember to add mint support to my theme whenever I update it!! I freaked out when I saw no traffic for 3 days!

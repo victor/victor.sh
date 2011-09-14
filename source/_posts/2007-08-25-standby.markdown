@@ -1,0 +1,14 @@
+---
+layout: post
+title: Standby
+---
+
+As you might know if you visit this blog regularly, I'm not updating quite often. Part of the reason behind that is my schedule, and part of it is the current hosting situation: this blog is hosted at [Textdrive](http://textdrive.com) on one of their shared [FreeBSD](http://freebsd.org) servers.
+
+Unfortunately, some time ago the powers that be at Textdrive decided to limit the resource consumption of their shared accounts, and since then, rails applications on Textdrive are often killed due to their excessive memory usage (for values of excessive starting at 48MB). Since the blog is powered by [Mephisto](http://mephistoblog.com), a rails application, it often occurred that I had to abandon editing a new entry, or updating the design.
+
+However, not all is lost. As it turns out, Texdrive is massively migrating their FreeBSD accounts to their shared Accelerators, powerful [Sun](http://sun.com) servers running [OpenSolaris](http://www.opensolaris.org/), and with much broad resource limits. According to users who have completed the migration, the new servers fly!
+
+So, this post is mostly to announce that, until my account is moved to the new servers, I'll refrain from updating the blog. I hold a Premier account, so I'll be in the first lot of customers to move, though I'll still have to wait, since the order is alphabetical and my account begins with 'v'. Please be patient and stay tuned.
+
+**Update 18/10/2007:** If you can see this, it means I'm on the new server
