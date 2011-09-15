@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Reboot"
+date: 2011-09-15 07:06
+comments: true
+categories: meta
+---
+
+This blog is being rebooted today. To begin with, after mulling over it for several days, I’ve migrated the setup to an static [Octopress](http://octopress.org/) site. Mephisto, while nice, was going nowhere for lack of maintenance. And after discovering that one can easily migrate from Mephisto to a Jekyll-based system like Octopress, it was a done deal.
+
+Octopress also has niceties for hackers, like powerful code embedding options. It’s still a bit difficult to blog from a smartphone, but that is just a matter of time, in my opinion.
+
+So, over the following days, the archives will be markdown-ified and the comments will be enabled. But let’s mark today –a day almost, but not quite, entirely unlike any other in the year- as the day of the reboot.
