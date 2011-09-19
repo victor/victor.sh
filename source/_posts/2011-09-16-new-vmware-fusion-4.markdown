@@ -9,4 +9,4 @@ A couple of days ago VMWare [released VMWare Fusion 4](http://blogs.vmware.com/t
 
 As opposed to previous releases, there’s no competitive upgrade from previous versions or from Parallels. The price for everyone is going to be $50 (for a limited time, then it’ll go up)
 
-I have used both Fusion and Parallels and, from my POV, Parallels slows down more the performance of the rest of the Mac. If you’re only going to be on the virtual machine it‘s not so important but, if you try for example to develop a web app on the Mac and test it on a virtualized Windows, the development task will be easier if you’re hosting the VM with Fusions rather than on Parallels.
+I have used both Fusion and Parallels and, from my POV, Parallels slows down more the performance of the rest of the Mac. If you’re only going to be on the virtual machine it‘s not so important but, if you try for example to develop a web app on the Mac and test it on a virtualized Windows, the development task will be easier if you’re hosting the VM with Fusion rather than on Parallels.
