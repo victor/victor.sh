@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Spotify: You can have my money or Facebook’s. But not both"
+date: 2011-09-27 10:31
+comments: true
+categories: 
+---
+There’s a turmoil on the internet regarding Facebook’s lubed (frictionless) sharing and how it means that Facebook will go all Big Brother on you and be aware of each and every movement you make online. And no service exemplifies it better than Spotify, which recently started requiring that you connect your Spotify account with your Facebook one. So, everything that you listen to, everything that you search for (possibly), and every user library that you browse, will be sent to Facebook for later analysis and correlation.
+
+I was already concerned about the attitude of Facebook regarding privacy. But this is taking it too far. This is downright intrusive. And Spotify’s actions are a big bet on their part. I was the one who always played devil’s advocate, advising people to get a paid membership in order to ensure Spotify’s viability in the future. So, it doesn’t surprise me that much that they’re now in bed with Facebook. They need to keep the money flowing from somewhere, and if conversion rates are not that great, well, they’re more or less justified on having done that. Spotify’s free and open users shouldn’t be complaining now, as they’re not paying users, so they get what they pay for.
+
+But, as a premium user, this is really annoying. If Spotify had a bit of sense, (and Facebook policies had allowed for that, I’m sure they do not), they would not have this requirement in place for paid users. That could even improve their conversion rates. But they did not, and now the common sentiment among paid users is that of being betrayed. And that’s never a good feeling to foster in your client base: their support forums are raging with righteous users announcing the cancellation of their subscriptions. When I went to open the Spotify client yesterday, I encountered a popup that could not be dismissed, and that required me to connect to Facebook in order to use Spotify. Fortunately, the Spotify application uses the same permission system as the other apps in Facebook, so I could log in and deny permission to the Spotify app (which had it previously, so now they’re the worse for that). But I suspect frictionless sharing is still enabled, even if the explicit sharing is not.
+
+As it is right now, I am considering accelerating the cancellation of my Facebook account –I barely use it nowadays, but would hate to lose contact with some school friends and relatives, after all it took to bring it back–. If that would mean the disruption of my Spotify service, so be it. That’s 10€ more I will have for iTunes, DVDs or books each month. I want to be the customer, not the product, and will gladly pay for that. But if you want me to pay for the privilege of being the product, you’re dead wrong.
