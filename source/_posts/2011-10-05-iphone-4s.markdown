@@ -1,0 +1,19 @@
+---
+layout: post
+title: "iPhone 4S"
+date: 2011-10-05 11:08
+comments: true
+categories: 
+---
+
+Yesterday, Tim Cook, Apple’s new CEO, announced the last device in the iPhone family, the [iPhone 4S](http://www.apple.com/iphone). It features a new dual core processor, a new GPU, a new camera, and a new antenna design. It will debut with iOS 5, which will be available for existing hardware starting October 12. And it will have an exclusive assistant app, [Siri](http://www.apple.com/iphone/features/siri.html), featuring voice recognition, that is supposedly capable of understanding natural speech and carry on instructions.
+
+The naysayers have been talking about disappointment. But, tell me about other phones that can do this:
+
+{% video http://movies.apple.com/media/us/iphone/2011/tours/apple-iphone4s-tour-siri-us-20111004_r848-9cie.mov 848 480 http://www.apple.com/iphone/features/images/siri_video.jpg %}
+
+Of course, we’ll have to see if the voice recognition is as good as portrayed. And, non being a native English speaker, I’ll sure have problems using it (or, wait until Spanish is supported). But it is a technical feat nonetheless. 
+
+Siri [used to be a normal app available in the App Store](http://techcrunch.com/2011/10/04/the-original-siri-app-gets-pulled-from-the-app-store-servers-killed/), which worked on all iPhone devices, not just the 4S. But it relied on external servers to do the processing of the natural language, as opposed to the new Siri feature, which works locally. Apple bought the company and made the technology a feature of the operating system itself.
+
+While I’m very happy with my iPhone 4, I’ll probably upgrade to the 4S, as my wife’s 3G is showing its age, and that way she’ll inherit my current one. And then she’ll be able to enjoy the features of iOS 4 (and 5) on adequate hardware. Also, being a professional iOS developer, it just makes sense to get test hardware, doesn’t it?
