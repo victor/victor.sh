@@ -2,6 +2,9 @@
   <script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
   <script type="text/javascript">
     try {
+	  if (DISQUS.jsonData.request.display_username) {
+	   re_name_tag = DISQUS.jsonData.request.display_username;
+	  }
       reinvigorate.track('{{ site.reinvigorate_tracking_id }}');
     } catch(err) {}
   </script>
