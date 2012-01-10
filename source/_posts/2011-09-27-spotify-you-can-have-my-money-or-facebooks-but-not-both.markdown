@@ -3,7 +3,7 @@ layout: post
 title: "Spotify: You can have my money or Facebook’s. But not both"
 date: 2011-09-27 10:31
 comments: true
-categories: 
+categories: [social networks]
 ---
 There’s a turmoil on the internet regarding Facebook’s lubed (frictionless) sharing and how it means that Facebook will go all Big Brother on you and be aware of each and every movement you make online. And no service exemplifies it better than Spotify, which recently started requiring that you connect your Spotify account with your Facebook one. So, everything that you listen to, everything that you search for (possibly), and every user library that you browse, will be sent to Facebook for later analysis and correlation.
 

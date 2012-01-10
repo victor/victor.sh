@@ -3,7 +3,7 @@ layout: post
 title: "iPhone 4S"
 date: 2011-10-05 11:08
 comments: true
-categories: 
+categories: [hardware, apple]
 ---
 
 Yesterday, Tim Cook, Apple’s new CEO, announced the last device in the iPhone family, the [iPhone 4S](http://www.apple.com/iphone). It features a new dual core processor, a new GPU, a new camera, and a new antenna design. It will debut with iOS 5, which will be available for existing hardware starting October 12. And it will have an exclusive assistant app, [Siri](http://www.apple.com/iphone/features/siri.html), featuring voice recognition, that is supposedly capable of understanding natural speech and carry on instructions.
